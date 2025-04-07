@@ -1,0 +1,11 @@
+[
+  {
+    "id": "1",
+    "title": "Music Fest 2025",
+    "date": "2025-06-10",
+    "location": "City Arena",
+    "price": 50,
+    "thumbnail": "https://example.com/thumb1.jpg",
+    "description": "A night of amazing music!"
+  }
+]

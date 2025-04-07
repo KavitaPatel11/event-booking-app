@@ -1,0 +1,182 @@
+[
+  {
+    "id": 1,
+    "title": "Home Tech Conference",
+    "date": "2025-06-10",
+    "location": "New York",
+    "price": 199.99,
+    "thumbnail": "assets/images/event1.jpeg",
+    "description": "Join top tech leaders and innovators to discuss the future of smart home technology and automation trends."
+  },
+  {
+    "id": 2,
+    "title": "Home Music Fest",
+    "date": "2025-07-21",
+    "location": "Los Angeles",
+    "price": 89.99,
+    "thumbnail": "assets/images/event2.jpeg",
+    "description": "A night of electrifying music, good vibes, and unforgettable performances by renowned bands and solo artists."
+  },
+  {
+    "id": 3,
+    "title": "Art & Culture Expo",
+    "date": "2025-08-15",
+    "location": "Chicago",
+    "price": 59.00,
+    "thumbnail": "assets/images/event3.jpeg",
+    "description": "Experience a rich display of art, craft, and cultural expressions from around the world."
+  },
+  {
+    "id": 4,
+    "title": "Startup Pitch Day",
+    "date": "2025-09-10",
+    "location": "San Francisco",
+    "price": 149.99,
+    "thumbnail": "assets/images/event4.jpeg",
+    "description": "Watch emerging startups pitch their big ideas to investors, VCs, and mentors."
+  },
+  {
+    "id": 5,
+    "title": "Fashion Week Gala",
+    "date": "2025-10-05",
+    "location": "Paris",
+    "price": 299.99,
+    "thumbnail": "assets/images/event5.jpeg",
+    "description": "A dazzling display of fashion trends, celebrity appearances, and international designers."
+  },
+  {
+    "id": 6,
+    "title": "Gaming Championship",
+    "date": "2025-11-22",
+    "location": "Tokyo",
+    "price": 119.00,
+    "thumbnail": "assets/images/event1.jpeg",
+    "description": "The ultimate competition for pro gamers with exciting prizes and global recognition."
+  },
+  {
+    "id": 7,
+    "title": "Film Festival Premiere",
+    "date": "2025-12-01",
+    "location": "Los Angeles",
+    "price": 89.50,
+    "thumbnail": "assets/images/event2.jpeg",
+    "description": "Celebrate cinematic excellence with premieres, celebrity panels, and red carpet moments."
+  },
+  {
+    "id": 8,
+    "title": "Book Reading Marathon",
+    "date": "2025-09-30",
+    "location": "London",
+    "price": 29.99,
+    "thumbnail": "assets/images/event3.jpeg",
+    "description": "An all-day reading session featuring best-selling authors, poets, and book lovers."
+  },
+  {
+    "id": 9,
+    "title": "Food Carnival Fiesta",
+    "date": "2025-10-12",
+    "location": "Madrid",
+    "price": 49.99,
+    "thumbnail": "assets/images/event4.jpeg",
+    "description": "Indulge in a variety of international cuisines, cooking demos, and food competitions."
+  },
+  {
+    "id": 10,
+    "title": "Yoga Wellness Retreat",
+    "date": "2025-08-20",
+    "location": "Bali",
+    "price": 129.99,
+    "thumbnail": "assets/images/event1.jpeg",
+    "description": "Recharge your body and mind with guided yoga, meditation, and nature healing."
+  },
+  {
+    "id": 11,
+    "title": "Blockchain Summit",
+    "date": "2025-07-28",
+    "location": "Berlin",
+    "price": 219.00,
+    "thumbnail": "assets/images/event2.jpeg",
+    "description": "Explore the future of decentralized technology with top blockchain experts and startups."
+  },
+  {
+    "id": 12,
+    "title": "AI Developers Meet",
+    "date": "2025-09-18",
+    "location": "San Jose",
+    "price": 179.99,
+    "thumbnail": "assets/images/event3.jpeg",
+    "description": "A gathering of AI developers, data scientists, and engineers for workshops and innovation showcases."
+  },
+  {
+    "id": 13,
+    "title": "Photography Expo",
+    "date": "2025-11-05",
+    "location": "Toronto",
+    "price": 74.99,
+    "thumbnail": "assets/images/event4.jpeg",
+    "description": "Meet pro photographers, attend photo walks, and try out the latest camera gear."
+  },
+  {
+    "id": 14,
+    "title": "Craft & DIY Workshop",
+    "date": "2025-10-20",
+    "location": "Austin",
+    "price": 39.99,
+    "thumbnail": "assets/images/event5.jpeg",
+    "description": "Hands-on creative workshops for enthusiasts of handmade crafts and home décor projects."
+  },
+  {
+    "id": 15,
+    "title": "Digital Marketing Fair",
+    "date": "2025-12-10",
+    "location": "Dubai",
+    "price": 189.00,
+    "thumbnail": "assets/images/event1.jpeg",
+    "description": "Learn the latest digital marketing strategies from global influencers and agency leaders."
+  },
+  {
+    "id": 16,
+    "title": "Comedy Night Bash",
+    "date": "2025-08-25",
+    "location": "Las Vegas",
+    "price": 59.99,
+    "thumbnail": "assets/images/event2.jpeg",
+    "description": "Laugh out loud with stand-up acts, improv comedy, and surprise celebrity guests."
+  },
+  {
+    "id": 17,
+    "title": "Startup Networking Brunch",
+    "date": "2025-09-14",
+    "location": "Bangalore",
+    "price": 24.99,
+    "thumbnail": "assets/images/event3.jpeg",
+    "description": "A casual brunch event for founders, developers, and investors to connect and collaborate."
+  },
+  {
+    "id": 18,
+    "title": "Global Hackathon",
+    "date": "2025-10-08",
+    "location": "Singapore",
+    "price": 129.50,
+    "thumbnail": "assets/images/event4.jpeg",
+    "description": "Collaborate with developers worldwide to solve real-world problems in 48 hours."
+  },
+  {
+    "id": 19,
+    "title": "Open Mic Poetry Night",
+    "date": "2025-09-09",
+    "location": "Melbourne",
+    "price": 19.99,
+    "thumbnail": "assets/images/event5.jpeg",
+    "description": "A soulful evening of spoken word, poetry, and creativity by emerging voices."
+  },
+  {
+    "id": 20,
+    "title": "Eco Friendly Design Show",
+    "date": "2025-11-15",
+    "location": "Amsterdam",
+    "price": 109.99,
+    "thumbnail": "assets/images/event1.jpeg",
+    "description": "Explore sustainable design trends and eco-conscious innovations in art and architecture."
+  }
+]
